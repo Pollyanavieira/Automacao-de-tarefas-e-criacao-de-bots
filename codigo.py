@@ -1,6 +1,6 @@
 import pyautogui
 import time
-pyautogui.PAUSE = 0.5
+pyautogui.PAUSE = 0.8
 
 pyautogui.press("win")
 pyautogui.write("chrome")
